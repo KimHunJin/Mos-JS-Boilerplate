@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Mos-JS
+.idea
+
+# vanilla-es60boilerplate
+./vanilla-es6-boilerplate/.idea
+./vanilla-es6-boilerplate/node_modules
