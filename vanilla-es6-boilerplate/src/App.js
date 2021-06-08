@@ -1,9 +1,8 @@
-import {Home} from "./view/Home.js";
+import {Home} from "./view/home/Home.js";
 
 class App {
     constructor() {
         this.$target = document.getElementById('root');
-        console.log('target', this.$target);
         this.home = new Home(this.$target);
     }
 
